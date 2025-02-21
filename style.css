@@ -1,0 +1,48 @@
+
+
+body{
+    background-color: rgb(154, 147, 138);
+}
+
+.text_center{
+    text-align: center;
+    color: rgb(58, 39, 105);
+}
+
+.bg-red{
+    background: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row{
+    margin: 8px 0;;
+}
+.row input{
+    margin: 0;
+    width: 293px;
+    font-size: 19px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+
+.flex{
+display: flex;
+} 
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
